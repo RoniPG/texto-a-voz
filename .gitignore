@@ -1,5 +1,5 @@
 # Entornos virtuales
-.env
+.env/
 .venv
 conda-env/
 
@@ -17,3 +17,6 @@ audio/
 # SO
 .DS_Store
 Thumbs.db
+
+# VSCode
+.vscode

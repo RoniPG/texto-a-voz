@@ -1,0 +1,19 @@
+# Entornos virtuales
+.env
+.venv
+conda-env/
+
+# Archivos de Python
+__pycache__/
+*.pyc
+
+# NLTK data
+nltk_data/
+
+# Archivos generados
+audio/
+*.mp3
+
+# SO
+.DS_Store
+Thumbs.db
